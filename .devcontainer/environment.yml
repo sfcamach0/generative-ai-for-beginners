@@ -1,4 +1,4 @@
-name: <environment-name>
+name: ai4beg-env
 channels:
  - defaults
 dependencies:
